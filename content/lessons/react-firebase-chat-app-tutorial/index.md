@@ -31,6 +31,7 @@ The following tutorial demonstrates how to build a simple group chat app with Re
 
 - [Live Demo](https://fireship-demos.web.app/)
 - [Source Code](https://github.com/fireship-io/react-firebase-chat)
+- [Updated Source Code (Community Contributions)](https://github.com/AmitShashi/react-firebase-chat)
 - [React Firebase Hooks](https://www.npmjs.com/package/react-firebase-hooks)
 
 ## Initial Setup
